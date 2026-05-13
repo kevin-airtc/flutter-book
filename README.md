@@ -26,10 +26,9 @@ Flutter 基础 高级 商城案例 插件开发等课程请关注<br>
 - Flutter交流群 1046954554
 - WebRTC交流群 425778886
 - Golang交流群 779370509
-- [Slack群](https://join.slack.com/t/kangshaojun/shared_invite/zt-riffsdox-jDe6AWhisMMeSC5Hx2bNMQ)
 - [GitHub](https://github.com/kangshaojun)
 - [B站](https://space.bilibili.com/394612055)
-- [Youtube](https://www.youtube.com/channel/UCRFjV30272wRoWMTM4eLBuA)
+
 
 
 # 图书封面
